@@ -86,7 +86,7 @@
 		"@types/node": "22.5.1",
 		"@typestrong/fs-fixture-builder": "github:TypeStrong/fs-fixture-builder#34113409e3a171e68ce5e2b55461ef5c35591cfe",
 		"c8": "10.1.2",
-		"esbuild": "0.23.1",
+		"esbuild": "0.25.0",
 		"eslint": "9.9.1",
 		"mocha": "10.7.3",
 		"prettier": "3.3.3",
